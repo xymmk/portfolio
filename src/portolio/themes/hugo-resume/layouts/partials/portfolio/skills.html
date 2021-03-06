@@ -1,0 +1,68 @@
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+  <div class="my-auto" id="skills-content">
+    <h2 class="mb-5">Skills</h2>
+    <div class="subheading mb-3 skills-heading">Level Description</div>
+    <table border="1" width="100%">
+      <thead>
+        <tr>
+            <th>Level</th>
+            <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>0</td>
+          <td>知識・経験なし</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>トレーニングを受けた程度の知識あり</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>サポートがあれば実施できる、またはその経験あり</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>独力で実施できる、またはその経験あり</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>他者を指導できる、またはその経験あり</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    {{ range $.Site.Data.skills }}
+        <div class="subheading mb-3 skills-heading">{{ .grouping }}</div>
+        <table border="1" width="100%">
+          <thead>
+            <tr>
+                <th>Skill Name</th>
+                <th>Skill Level</th>
+            </tr>
+        </thead>
+        <tbody>
+          {{ range .skills }}
+            <tr>
+              {{ if isset . "name" }}
+                {{if isset . "link"}}
+                  <td><a href="{{.link}}">{{ .name }}</a></td>
+                {{else}}
+                  <td>{{ .name }}</td>
+                {{end}}
+              {{else}}
+                <td>✖</td>
+              {{ end }}
+              {{ if isset . "level" }}
+                <td>{{ .level }}</td>
+              {{else}}
+                <td>✖</td>
+              {{ end }}
+            </tr>
+          {{ end }}
+        </tbody>
+        </table>
+    {{ end }}
+  </div>
+</section>

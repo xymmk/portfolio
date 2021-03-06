@@ -1,0 +1,13 @@
+version: '3'
+services:
+    hugo:
+        image: klakegg/hugo:0.74.3-ubuntu
+        container_name: hugo
+        volumes:
+            - "./src:/src"
+            - "./docs:/src/portolio/docs"
+        entrypoint: bash
+        ports:
+            - "8888:8888"
+        tty: true
+        working_dir: /src

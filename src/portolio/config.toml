@@ -1,0 +1,46 @@
+title = "XYMMK PORTFOLIO"
+baseURL = "http://git.tech.fancs.com/pages/y-chen/xymmk_personl/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+publishDir = "docs"
+canonifyurls = true
+
+[params]
+address = "非公開 。ヽ(=^･ω･^=)丿猫飯拳!"
+email = "非公開 (○｀ω´○)"
+favicon = "/favicon.ico"
+firstName = "XYMMK"
+lastName = "PORTFOLIO"
+phone = ""
+profileImage = "img/prof.png"
+showEducation = false
+showExperience = false
+showOpenSource = false
+showProjects = true
+showPublications = false
+showQr = false
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://github.com/xymmk/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://ameblo.jp/xymmk/entry-12660223547.html"
+name = "Ameba"
+icon =  "blog"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

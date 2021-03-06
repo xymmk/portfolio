@@ -1,0 +1,109 @@
+[
+  {
+      "grouping":"Network Architecture",
+      "skills":[ 
+        {"name": "DNS", "level": "3"},
+        {"name": "Firewalls", "level": "3"},
+        {"name": "Load Balancing", "level": "3"}]
+  },{
+      "grouping":"Software Architecture",
+      "skills":[ 
+        {"name": "DDD", "level": "3"},
+        {"name": "Clean architecture", "level": "3"}
+      ]
+  },
+  {
+    "grouping":"LANGUAGES",
+    "skills":[ 
+      {"name": "Java", "level": "3"},
+      {"name": "JavaScript", "level": "3"},
+      {"name": "Python", "level": "3"},
+      {"name": "Perl", "level": "3"},
+      {"name": "VBA", "level": "3"},
+      {"name": "C#", "level": "2"},
+      {"name": "Ruby", "level": "2"},
+      {"name": "PHP", "level": "2"},
+      {"name": "Scala", "level": "2"},
+      {"name": "ActionScript", "level": "2"},
+      {"name": "Delphi", "level": "2"},
+      {"name": "Clojure", "level": "2"}
+    ]
+  },
+  {
+    "grouping":"Front Framework",
+    "skills":[ 
+      {"name": "Vue", "level": "3"},
+      {"name": "React", "level": "3"}
+    ]
+  },
+  {
+    "grouping":"Web Application Framework",
+    "skills":[ 
+      {"name": "Spring", "level": "3"},
+      {"name": "Spring Boot", "level": "3"},
+      {"name": "Ruby on Rails", "level": "3"},
+      {"name": "Hibernate", "level": "2"},
+      {"name": "Mybatis", "level": "2"},
+      {"name": "Flask", "level": "2"},
+      {"name": "nodejs", "level": "2"},
+      {"name": "ColdFusion", "level": "2"}
+    ]
+  },
+  {
+    "grouping":"Open Source Software",
+    "skills":[ 
+      {"name": "Rabbitmq", "level": "2"},
+      {"name": "Keycloak", "level": "2"},
+      {"name": "nginx", "level": "2"},
+      {"name": "vagrant", "level": "2"},
+      {"name": "appache", "level": "2"},
+      {"name": "Redis", "level": "2"},
+      {"name": "memcache", "level": "2"},
+      {"name": "scrapy", "level": "2"},
+      {"name": "splash", "level": "2"},
+      {"name": "redash", "level": "2"},
+      {"name": "flutend", "level": "2"},
+      {"name": "kafka", "level": "1"},
+      {"name": "consul", "level": "1"}
+    ]
+  },
+  {
+    "grouping":"RDBMS",
+    "skills":[ 
+      {"name": "Oracle", "level": "3"},
+      {"name": "Mysql", "level": "3"},
+      {"name": "postgresql", "level": "3"},
+      {"name": "Microsoft SQL Server", "level": "3"}
+    ]
+  },
+  {
+    "grouping":"NOSQL Database",
+    "skills":[ 
+      {"name": "MongoDB", "level": "3"},
+      {"name": "Mysql", "level": "3"},
+      {"name": "Elasticsearch", "level": "3"}
+    ]
+  },
+  {
+    "grouping":"virtualization",
+    "skills":[ 
+      {"name": "Docker", "level": "4"},
+      {"name": "virtualbox", "level": "3"},
+      {"name": "Elasticsearch", "level": "3"}
+    ]
+  },
+  {
+    "grouping":"Cloud",
+      "skills":[
+          {"name":"AWS","link":"https://aws.amazon.com", "level":"3"},
+          {"name":"Google Cloud","link":"https://cloud.google.com", "level": "2"}
+      ]
+  },
+  {
+    "grouping":"Version Tool",
+      "skills":[
+          {"name":"git", "level":"3"},
+          {"name":"svn", "level": "2"}
+      ]
+  }
+]

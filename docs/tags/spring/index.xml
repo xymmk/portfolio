@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring on Clarity</title>
+    <link>http://git.tech.fancs.com/pages/y-chen/xymmk_personl/tags/spring/</link>
+    <description>Recent content in Spring on Clarity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="http://git.tech.fancs.com/pages/y-chen/xymmk_personl/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Room Repairs Request System</title>
+      <link>http://git.tech.fancs.com/pages/y-chen/xymmk_personl/projects/creations/room/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>http://git.tech.fancs.com/pages/y-chen/xymmk_personl/projects/creations/room/</guid>
+      <description>you can use this system to housing repair online</description>
+    </item>
+    
+  </channel>
+</rss>
