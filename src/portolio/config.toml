@@ -1,5 +1,5 @@
 title = "XYMMK PORTFOLIO"
-baseURL = "http://git.tech.fancs.com/pages/y-chen/xymmk_personl/"
+baseURL = "https://xymmk.github.io/portfolio/."
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true

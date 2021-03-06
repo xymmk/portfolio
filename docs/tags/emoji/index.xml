@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on Clarity</title>
-    <link>http://git.tech.fancs.com/pages/y-chen/xymmk_personl/tags/emoji/</link>
+    <link>https://xymmk.github.io/portfolio/./tags/emoji/</link>
     <description>Recent content in emoji on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://git.tech.fancs.com/pages/y-chen/xymmk_personl/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xymmk.github.io/portfolio/./tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Emoji Support</title>
-      <link>http://git.tech.fancs.com/pages/y-chen/xymmk_personl/post/emoji-support/</link>
+      <link>https://xymmk.github.io/portfolio/./post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://git.tech.fancs.com/pages/y-chen/xymmk_personl/post/emoji-support/</guid>
+      <guid>https://xymmk.github.io/portfolio/./post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
