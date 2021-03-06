@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android 4.3 on Clarity</title>
-    <link>https://xymmk.github.io/portfolio/./tags/android-4.3/</link>
+    <link>https://xymmk.github.io/portfolio/tags/android-4.3/</link>
     <description>Recent content in Android 4.3 on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://xymmk.github.io/portfolio/./tags/android-4.3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xymmk.github.io/portfolio/tags/android-4.3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Room Repairs Request System</title>
-      <link>https://xymmk.github.io/portfolio/./projects/creations/room/</link>
+      <link>https://xymmk.github.io/portfolio/projects/creations/room/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://xymmk.github.io/portfolio/./projects/creations/room/</guid>
+      <guid>https://xymmk.github.io/portfolio/projects/creations/room/</guid>
       <description>you can use this system to housing repair online</description>
     </item>
     

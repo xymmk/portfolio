@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sturt2 on Clarity</title>
-    <link>https://xymmk.github.io/portfolio/./tags/sturt2/</link>
+    <link>https://xymmk.github.io/portfolio/tags/sturt2/</link>
     <description>Recent content in Sturt2 on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://xymmk.github.io/portfolio/./tags/sturt2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xymmk.github.io/portfolio/tags/sturt2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Room Repairs Request System</title>
-      <link>https://xymmk.github.io/portfolio/./projects/creations/room/</link>
+      <link>https://xymmk.github.io/portfolio/projects/creations/room/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://xymmk.github.io/portfolio/./projects/creations/room/</guid>
+      <guid>https://xymmk.github.io/portfolio/projects/creations/room/</guid>
       <description>you can use this system to housing repair online</description>
     </item>
     
