@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57bdbf1d-5bfd-4233-8767-0a28b73b4153" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/demo">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qFdZr8q3HRYWzVHIt75dLO92ak" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="easyexcel_demo [run]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../scala_workspace/a8px_webapp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57bdbf1d-5bfd-4233-8767-0a28b73b4153" name="Default Changelist" comment="" />
+      <created>1616679331610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616679331610</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="127" key="#Project_Structure" timestamp="1616679568274">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="343" y="127" key="#Project_Structure/47.23.1393.877@47.23.1393.877" timestamp="1616679568274" />
+    <state x="207" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616681148264">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="207" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/47.23.1393.877@47.23.1393.877" timestamp="1616681148264" />
+    <state x="556" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1616693914072">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="556" y="152" key="#com.intellij.ide.util.MemberChooser/47.23.1393.877@47.23.1393.877" timestamp="1616693914072" />
+    <state x="509" y="328" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1616680814149">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="509" y="328" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/47.23.1393.877@47.23.1393.877" timestamp="1616680814149" />
+    <state width="1340" height="230" key="GridCell.Tab.0.bottom" timestamp="1616695090597">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1616695090597" />
+    <state width="1340" height="230" key="GridCell.Tab.0.center" timestamp="1616695090596">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1616695090596" />
+    <state width="1340" height="230" key="GridCell.Tab.0.left" timestamp="1616695090595">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1616695090595" />
+    <state width="1340" height="230" key="GridCell.Tab.0.right" timestamp="1616695090597">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state width="1340" height="230" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1616695090597" />
+    <state x="120" y="75" key="new project wizard" timestamp="1616679544235">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="120" y="75" key="new project wizard/47.23.1393.877@47.23.1393.877" timestamp="1616679544235" />
+  </component>
+</project>

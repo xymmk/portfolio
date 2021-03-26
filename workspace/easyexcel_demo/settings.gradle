@@ -1,0 +1,3 @@
+rootProject.name = 'easyexcel_demo'
+include 'demo'
+
