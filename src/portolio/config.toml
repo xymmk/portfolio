@@ -10,8 +10,8 @@ publishDir = "docs"
 canonifyurls = true
 
 [params]
-address = "非公開 。ヽ(=^･ω･^=)丿猫飯拳!"
-email = "非公開 (○｀ω´○)"
+address = "ヽ(=^･ω･^=)丿"
+email = "非公開@email.com"
 favicon = "/favicon.ico"
 firstName = "XYMMK"
 lastName = "PORTFOLIO"

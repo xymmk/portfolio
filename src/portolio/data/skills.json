@@ -15,13 +15,14 @@
   {
     "grouping":"LANGUAGES",
     "skills":[ 
-      {"name": "Java", "level": "3"},
+      {"name": "Java", "level": "4"},
+      {"name": "Kotlin", "level": "3"},
       {"name": "JavaScript", "level": "3"},
       {"name": "Python", "level": "3"},
       {"name": "Perl", "level": "3"},
       {"name": "VBA", "level": "3"},
       {"name": "C#", "level": "2"},
-      {"name": "Ruby", "level": "2"},
+      {"name": "Ruby", "level": "3"},
       {"name": "PHP", "level": "2"},
       {"name": "Scala", "level": "2"},
       {"name": "ActionScript", "level": "2"},
@@ -33,14 +34,16 @@
     "grouping":"Front Framework",
     "skills":[ 
       {"name": "Vue", "level": "3"},
-      {"name": "React", "level": "3"}
+      {"name": "React", "level": "3"},
+      {"name": "Svelte", "level": "3"}
     ]
   },
   {
     "grouping":"Web Application Framework",
     "skills":[ 
-      {"name": "Spring", "level": "3"},
       {"name": "Spring Boot", "level": "3"},
+      {"name": "JOOQ", "level": "3"},
+      {"name": "FastAPI", "level": "3"},
       {"name": "Ruby on Rails", "level": "3"},
       {"name": "Hibernate", "level": "2"},
       {"name": "Mybatis", "level": "2"},
@@ -80,6 +83,7 @@
     "grouping":"NOSQL Database",
     "skills":[ 
       {"name": "MongoDB", "level": "3"},
+      {"name": "Dynamodb", "level": "3"},
       {"name": "Mysql", "level": "3"},
       {"name": "Elasticsearch", "level": "3"}
     ]
@@ -96,7 +100,8 @@
     "grouping":"Cloud",
       "skills":[
           {"name":"AWS","link":"https://aws.amazon.com", "level":"3"},
-          {"name":"Google Cloud","link":"https://cloud.google.com", "level": "2"}
+          {"name":"Google Cloud","link":"https://cloud.google.com", "level": "2"},
+          {"name":"OCI","link":"https://www.oracle.com/jp/cloud/", "level": "1"}
       ]
   },
   {
